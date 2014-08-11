@@ -1,7 +1,7 @@
 package com.snayani.linkedlist;
 
 /**
- * Node structure
+ * Single link Node structure
  * 
  * @author Sreekar Nayani
  *

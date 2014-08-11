@@ -6,6 +6,12 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+/**
+ * Test LinkedList reverse
+ * 
+ * @author Sreekar Nayani
+ *
+ */
 public class LinkedListTest {
  
 	int[] initialList = {3, 6, 9, 1};
