@@ -11,6 +11,9 @@ public class LinkedList {
 	/**
 	 * Reverse of the linked Nodes.
 	 * 
+	 * Time complexity - Big O(n)
+	 * Space complexity - Big O(n)
+	 * 
 	 * @param head Node
 	 * @return Node
 	 */
@@ -36,6 +39,9 @@ public class LinkedList {
 	private static Node newHead = null;
 	/**
 	 * Reverse of the linked Nodes. Recursive implementation.
+	 * 
+	 * Time complexity - Big O(n)
+	 * Space complexity - Big O(n)
 	 * 
 	 * @param head Node
 	 * @return Node
